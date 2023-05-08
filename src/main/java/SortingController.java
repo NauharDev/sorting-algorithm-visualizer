@@ -180,7 +180,7 @@ public class SortingController {
     }
 
     /**
-     * Animates the transition to the double-list sort UI from the bubble sort UI.
+     * Animates the transition to the insertion sort UI from the bubble sort UI.
      * Method loads the "SecondSortingView" fxml file and sets it to be the root of the
      * scene, starting to the right of the scene graph
      * 

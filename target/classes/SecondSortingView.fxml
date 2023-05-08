@@ -30,8 +30,8 @@
                </children>
             </HBox>
             <Button fx:id="randomizeButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#randomize" prefHeight="25.0" prefWidth="147.0" text="Randomize" />
-            <Button fx:id="completeRunButton" layoutX="14.0" layoutY="95.0" mnemonicParsing="false" onAction="#doubleListSortCompleteRun" text="Double-List Sort Complete Run" />
-            <Button fx:id="singleStepButton" layoutX="14.0" layoutY="148.0" mnemonicParsing="false" onAction="#doubleListSortSingleStep" text="Double-List Sort Single Step" />
+            <Button fx:id="completeRunButton" layoutX="14.0" layoutY="95.0" mnemonicParsing="false" onAction="#doubleListSortCompleteRun" text="Insertion Sort Complete Run" />
+            <Button fx:id="singleStepButton" layoutX="14.0" layoutY="148.0" mnemonicParsing="false" onAction="#doubleListSortSingleStep" text="Insertion Sort Single Step" />
             <TextField fx:id="delayTextField" layoutX="14.0" layoutY="257.0" onAction="#setDelay" prefHeight="25.0" prefWidth="147.0" />
             <Label layoutX="14.0" layoutY="231.0" text="Time Between KeyFrames (ms):" />
             <HBox fx:id="elementBox2" alignment="BOTTOM_CENTER" layoutX="191.0" layoutY="185.0" prefHeight="169.0" prefWidth="391.0" />

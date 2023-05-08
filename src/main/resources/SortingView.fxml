@@ -68,7 +68,7 @@
             <Label layoutX="14.0" layoutY="231.0" text="Time Between KeyFrames (ms):" />
             <Button fx:id="completeRunButton" layoutX="7.0" layoutY="70.0" mnemonicParsing="false" onAction="#bubbleSortCompleteRun" text="Bubble Sort Complete Run" />
             <Label fx:id="finishMessage" layoutX="201.0" layoutY="74.0" text="The sorting is complete. Click &quot;Randomize&quot; to reset and begin a new session." />
-            <Button fx:id="sortChangeButton" layoutX="6.0" layoutY="319.0" mnemonicParsing="false" onAction="#changingSortSlideIn" text="Change to Double-List Sort" />
+            <Button fx:id="sortChangeButton" layoutX="13.0" layoutY="320.0" mnemonicParsing="false" onAction="#changingSortSlideIn" text="Change to Insertion Sort" />
       </children>
     </AnchorPane>
   </children>

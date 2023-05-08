@@ -18,6 +18,6 @@
          </font>
       </Label>
       <Button fx:id="bubbleSortButton" layoutX="109.0" layoutY="250.0" mnemonicParsing="false" onAction="#changeToBubbleSort" text="Bubble Sort" />
-      <Button fx:id="doubleListSortButton" layoutX="410.0" layoutY="250.0" mnemonicParsing="false" onAction="#changeToSecondSort" text="Double List Sort" />
+      <Button fx:id="doubleListSortButton" layoutX="410.0" layoutY="250.0" mnemonicParsing="false" onAction="#changeToSecondSort" text="Insertion Sort" />
    </children>
 </AnchorPane>

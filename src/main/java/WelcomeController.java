@@ -59,9 +59,9 @@ public class WelcomeController {
 
     /**
      * Changes the fxml file associated with the scene to the "SecondSortingView"
-     * fxml file. The scene proceeds to show the UI of the double-list sort. 
-     * This method runs when the user selects "Double List Sort" in the welcome
-     * screen.
+     * fxml file. The scene proceeds to show the UI of the Insertion sort 
+     * visualizer. This method runs when the user selects "Insertion Sort" in 
+     * the welcome screen.
      * 
      * @throws IOException
      */
